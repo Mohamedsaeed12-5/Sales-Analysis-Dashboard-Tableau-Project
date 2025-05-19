@@ -41,8 +41,8 @@ You can explore the live version here:
 [Tableau Public Link – to be added]
 
 ## Screenshots
-![Dashboard 1](Screenshots/Overview.jpg)  
 ![Dashboard 2](Screenshots/Product_Insights.jpg)
+![Dashboard 1](Screenshots/Overview.jpg)  
 ![Dashboard 2.1](Screenshots/Filters.jpg)
 
 ## Author
